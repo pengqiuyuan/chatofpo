@@ -1,4 +1,1 @@
-chatofpo
-========
-
-chatofpomelo ie7ã€8ã€9 æœ‰bug,å®¢æˆ·ç«¯æ²¡10ç§’ä¼šæ‰§è¡Œä¸€æ¬¡disconnectï¼Œæœªè§£å†³
+chatofpomelo ie7¡¢8¡¢9 ÓĞbug,¿Í»§¶ËÃ»10Ãë»áÖ´ĞĞÒ»´Îdisconnect£¬Î´½â¾ö
