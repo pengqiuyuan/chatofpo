@@ -1,5 +1,7 @@
-chatofpomelo ie7¡¢8¡¢9 ÓĞbug,¿Í»§¶ËÃ»10Ãë»áÖ´ĞĞÒ»´Îdisconnect£¬Î´½â¾ö
+chatofpomelo ie7ã€8ã€9 æœ‰bug,å®¢æˆ·ç«¯æ²¡10ç§’ä¼šæ‰§è¡Œä¸€æ¬¡disconnectï¼Œæœªè§£å†³
 
-1¡¢chatofpo\game-server\node_modules\pomelo\lib\connector\sioconnector.js
-   Ìæ»»ÏÂsioconnector.jsÕâ¸öÎÄ¼ş
-2¡¢ĞŞ¸ÄÁË4¸öµØ·½
+1ã€chatofpo\game-server\node_modules\pomelo\lib\connector\sioconnector.js
+   æ›¿æ¢ä¸‹sioconnector.jsè¿™ä¸ªæ–‡ä»¶
+2ã€ä¿®æ”¹äº†4ä¸ªåœ°æ–¹
+
+![Image text](https://cloud.githubusercontent.com/assets/4953205/3824900/dd97f01c-1d4d-11e4-943f-d13aebcf8678.png)
